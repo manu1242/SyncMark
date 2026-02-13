@@ -10,7 +10,7 @@ export default function Navbar({ userEmail }: { userEmail?: string }) {
             <Bookmark className="h-5 w-5" />
           </div>
           <span className="font-bold text-xl tracking-tight text-slate-900 hidden sm:block">
-            SmartMark
+            SyncMark
           </span>
         </div>
         

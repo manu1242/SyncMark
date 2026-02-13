@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SmartMark | Real-time Bookmark Manager",
+  title: "SyncMark | Real-time Bookmark Manager",
   description: "Save and organize your favorite links with instant real-time sync.",
 };
 

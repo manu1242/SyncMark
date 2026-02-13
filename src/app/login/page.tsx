@@ -33,7 +33,7 @@ export default async function LoginPage() {
             </svg>
           </div>
           <h1 className="text-2xl font-semibold tracking-tight text-slate-900">
-            Welcome to SmartMark
+            Welcome to SyncMark
           </h1>
           <p className="mt-2 text-sm text-slate-500 font-normal">
             Your real-time digital library. Please sign in to continue.
